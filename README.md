@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DaoSword
-- 👀 I’m interested in data science, machine learning, time series forecasting and other interesting fields.
+- 👀 I’m interested in data science, machine learning, AI, time series forecasting and other interesting fields.
 - 🌱 I’m currently learning shakuhachi, piano, and chess.
 
 <!---
